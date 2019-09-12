@@ -1,0 +1,65 @@
+{
+  "gr": {
+    "gamestate": {
+      "won": "Λύθηκε σε %1 δευτερόλεπτα!",
+      "lost": "Τέλος Παιχνιδιού!",
+      "retry": "Παίξε ξανά",
+      "newGame": "Νέο Παιχνίδι"
+    },
+    "settings": {
+      "label": {
+        "headline": "Ρυθμίσεις",
+        "playfieldWidth": "Μήκος Playfield",
+        "playfieldHeight": "Πλάτος Playfield",
+        "fieldSize": "Πλάτος πεδίου (px)",
+        "bombCount": "Αριθμός Βομβών",
+        "difficulty": {
+          "headline": "Επίπεδο Δυσκολίας",
+          "level": {
+            "easy": "Εύκολο",
+            "medium": "Μέτριο",
+            "hard": "Δύσκολο",
+            "insane": "Για τα πανηγύρια",
+            "custom": "Custom"
+          }
+        }
+      }
+    },
+
+    "stats": {
+      "actions": "Ενέργειες",
+      "apm": "APM"
+    }
+  },
+  "en": {
+    "gamestate": {
+      "won": "Solved in %1 seconds!",
+      "lost": "Game over!",
+      "retry": "Play again",
+      "newGame": "New game"
+    },
+    "settings": {
+      "label": {
+        "headline": "Custom parameters",
+        "playfieldWidth": "Playfield width",
+        "playfieldHeight": "Playfield height",
+        "fieldSize": "Field width (px)",
+        "bombCount": "Number of bombs",
+        "difficulty": {
+          "headline": "Difficulty level",
+          "level": {
+            "easy": "easy",
+            "medium": "medium",
+            "hard": "hard",
+            "insane": "insane",
+            "custom": "custom"
+          }
+        }
+      }
+    },
+    "stats": {
+      "actions": "Actions",
+      "apm": "APM"
+    }
+  }
+}
